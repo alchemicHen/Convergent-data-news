@@ -1,6 +1,6 @@
 Convergent Fall 2021 Data Analysis BT News Subteam
 
-App Name: 
+App Name: Tinder News Thing
 
 Group Members:
  - Michael Chen
