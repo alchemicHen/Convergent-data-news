@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
+//import BottomTabNavigator from './navigation'
 
 /** TODO: Frontend very scuffed
  * Correctly format components, align them so that they look nice as well
@@ -31,6 +32,7 @@ export default function App() {
     
   );
 }
+
 
 const styles = StyleSheet.create({
   container: {
