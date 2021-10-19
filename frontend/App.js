@@ -3,18 +3,6 @@ import React from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
 //import BottomTabNavigator from './navigation'
 
-/** TODO: Frontend very scuffed
- * Correctly format components, align them so that they look nice as well
- * Fix placeholder decision component with a button or other touch component
- * Set up navigation and routes
- * Aesthetics
- */
-
-/**TODO: Backend
- * Analyze APIs
- * Think about algorithims and get something basic down
- */
-
 
 export default function App() {
   return (
